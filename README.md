@@ -11,3 +11,10 @@ Recently Valorant AC is blocking 2nd mouse input, arduino became useless, trigge
 - External Console Menu.
 - Smooth and Fov.
 - Config.txt settings archive.
+
+- ______________.___._______________________________ 
+\_   ___ \__  |   |\______   \_   _____/\______   \
+/    \  \//   |   | |    |  _/|    __)_  |       _/
+\     \___\____   | |    |   \|        \ |    |   \
+ \______  / ______| |______  /_______  / |____|_  /
+        \/\/               \/        \/         \/ 
